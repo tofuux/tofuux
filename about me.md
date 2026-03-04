@@ -1,5 +1,8 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Hi,+I'm+Thrupthi+Bhat;Love+learning...;CS+Engineering+Student;Machine+Learning+Enthusiast;Working+on+Deep+Learning" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi,%20I'm%20Rahil%20Masood&fontSize=70&fontAlignY=38&animation=twinkling" />
+</div>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Love+learning...;CS+Engineering+Student;Machine+Learning+Enthusiast;Working+on+Deep+Learning" alt="Typing SVG" />
 </div>
 
 <h3 align="center">Software Developer | Machine Learning Enthusiast | CS Student</h3>
@@ -17,17 +20,23 @@
 
 ### 👨‍💻 About Me
 
-<img align="right" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/about_me.gif" width="280" alt="Coding Animation" />
+<table align="center" style="border: none;">
+  <tr style="border: none;">
+    <td width="60%" style="border: none;">
+      <ul>
+        <li>🎓 Currently a 3rd year Computer Science Engineering student.</li>
+        <li>💻 Machine Learning Enthusiast.</li>
+        <li>🔭 Working on AIML projects, Deep Learning and Web Development.</li>
+        <li>🌱 Learning Deep Learning concepts and Neural Networks, DSA, Cyber Security, Web Development.</li>
+        <li>💬 Ask me about OOP or Machine Learning.</li>
+      </ul>
+    </td>
+    <td width="40%" align="center" style="border: none;">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/about_me.gif" width="250" alt="Coding Animation" />
+    </td>
+  </tr>
+</table>
 
-<ul>
-  <li>🎓 Currently a 3rd year Computer Science Engineering student.</li>
-  <li>💻 Machine Learning Enthusiast.</li>
-  <li>🔭 Working on AIML projects, Deep Learning and Web Development.</li>
-  <li>🌱 Learning Deep Learning concepts and Neural Networks, DSA, Cyber Security, Web Development.</li>
-  <li>💬 Ask me about OOP or Machine Learning.</li>
-</ul>
-
-<br clear="both" />
 <br />
 
 ### 🛠️ Tech Stack
