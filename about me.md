@@ -30,16 +30,7 @@ Welcome to my GitHub! I'm passionate about blending artificial intelligence with
 ### 🛠️ Languages & Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,blender,ai,git,github" alt="Tech Stack" />
-</div>
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tofuux&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tofuux&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
+<img src="https://skillicons.dev/icons?i=java,python,jupyter,html,css,javascript,blender,ai,git,github" alt="Tech Stack" />
 </div>
 
 ---
@@ -48,9 +39,10 @@ Welcome to my GitHub! I'm passionate about blending artificial intelligence with
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| **BlendAI** | An AI-driven Blender assistant for advanced script and texture generation. | `Python` `Blender API` |
-| **[PDFMerger](https://github.com/tofuux/PDFMerger)** | A fast, reliable script to merge and split multiple PDF documents. | `Python` |
-| **[Student-Grade-Manager](https://github.com/tofuux/Student-Grade-Manager)** | An OOP-based system to reliably manage and calculate student grades. | `Java` |
+| **[Fingerprint_Blood_Group_Detection](https://github.com/tofuux/Fingerprint_Blood_Group_Detection)** | A deep learning-based system that uses a CNN to predict an individual’s blood group from fingerprint images. | `Jupyter Notebook` `Deep Learning` `CNN` |
+| **[blendAI](https://github.com/tofuux/blendAI)** | An AI-driven Blender assistant for advanced script and texture generation. | `Python` `Blender API` |
+| **[Fake_News_Detection](https://github.com/tofuux/Fake_News_Detection)** | A data science and machine learning project focused on identifying and classifying fake news. | `Jupyter Notebook` `Machine Learning` |
+| **[Chat-Simulator](https://github.com/tofuux/Chat-Simulator)** | An object-oriented Java application designed to simulate chat functionalities. | `Java` `OOP` |
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
