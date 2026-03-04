@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/Bengaluru_Based-000000?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
   </a>
   <a href="https://github.com/tofuux">
-    <img src="https://img.shields.io/badge/Bilingual-English_%7C_Kannada-05122A?style=for-the-badge" alt="Languages" />
+    <img src="https://img.shields.io/badge/Triingual-English_%7C_Kannada_%7C_Hindi-05122A?style=for-the-badge" alt="Languages" />
   </a>
 </div>
 
