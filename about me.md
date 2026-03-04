@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi,%20I'm%20Rahil%20Masood&fontSize=70&fontAlignY=38&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi,%20I'm%20Thrupthi%20Bhat&fontSize=70&fontAlignY=38&animation=twinkling" />
 </div>
 
 <h3 align="center">Software Developer | 3D Tools & AI Integration | CS Student</h3>
