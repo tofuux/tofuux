@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=🖥️+Love+learning...;🎓+CS+Engineering+Student;💡+Machine+Learning+Enthusiast;🚀+Working+on+Deep+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Love+learning...;CS+Engineering+Student;Machine+Learning+Enthusiast;Working+on+Deep+Learning" alt="Typing SVG" />
 </div>
 
 <h3 align="center">Software Developer | Machine Learning Enthusiast | CS Student</h3>
@@ -8,7 +8,9 @@
   <a href="https://github.com/tofuux">
     <img src="https://img.shields.io/badge/Bengaluru_Based-000000?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
   </a>
-  <a href="https://github.com/tofuux">  </a>
+  <a href="https://github.com/tofuux">
+    <img src="https://img.shields.io/badge/Bilingual-English_%7C_Kannada-05122A?style=for-the-badge" alt="Languages" />
+  </a>
 </div>
 
 <br />
@@ -27,7 +29,7 @@
       </ul>
     </td>
     <td width="40%" align="center" style="border: none;">
-      <img src="https://media.giphy.com/media/qgQUggCGvnPZG/giphy.gif" width="250" alt="Coding Animation" />
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/about_me.gif" width="250" alt="Coding Animation" />
     </td>
   </tr>
 </table>
