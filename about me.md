@@ -24,15 +24,15 @@
   <tr style="border: none;">
     <td width="60%" style="border: none;">
       <ul>
-        <li>🎓 Currently a 3rd year Computer Science Engineering student.</li>
+        <li>🎓 Currently a 2nd year Computer Science Engineering student.</li>
         <li>💻 Machine Learning Enthusiast.</li>
         <li>🔭 Working on AIML projects, Deep Learning and Web Development.</li>
-        <li>🌱 Learning Deep Learning concepts and Neural Networks, DSA, Cyber Security, Web Development.</li>
+        <li>🌱 Learning Deep Learning concepts and Neural Networks, DSA, Web Development.</li>
         <li>💬 Ask me about OOP or Machine Learning.</li>
       </ul>
     </td>
     <td width="40%" align="center" style="border: none;">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/about_me.gif" width="250" alt="Coding Animation" />
+      <img src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/about_me.gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXNrNGppdjgydGY2cmk2bTg5MmZydGdjbXZwanVra24xcnQzcXg5ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ML15sUZFNyMy0Yv55m/giphy.gif)" width="250" alt="Coding Animation" />
     </td>
   </tr>
 </table>
