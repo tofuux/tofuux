@@ -149,6 +149,8 @@ Tech:
 
 <img src="https://readme-jokes.vercel.app/api?theme=tokyonight"/>
 
+---
+
 </div>
 <div align="center">
 
@@ -159,8 +161,6 @@ Tech:
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tofuux&theme=tokyonight"/>
 
 </div>
-
----
 
 ---
 # 🌐 Connect With Me
