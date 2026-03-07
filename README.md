@@ -46,7 +46,7 @@
 
 ---
 
-# 🧠 My Tech Universe
+# 🧠 My Tech Stack
 
 ### 💻 Languages
 
@@ -77,6 +77,10 @@
 ---
 
 # 🚀 Featured Projects
+
+<a href="https://github.com/tofuux/Fingerprint_Blood_Group_Detection">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=tofuux&repo=Fingerprint_Blood_Group_Detection&theme=tokyonight">
+</a>
 
 ### 🧬 Fingerprint Blood Group Detection
 🔗 https://github.com/tofuux/Fingerprint_Blood_Group_Detection
