@@ -30,6 +30,7 @@
 <div align="center">
 
 <img src="https://quickchart.io/chart?width=520&height=320&c=%7Btype%3A%27radar%27%2Cdata%3A%7Blabels%3A%5B%27Machine%20Learning%27%2C%27Deep%20Learning%27%2C%27Python%20%2F%20Data%27%2C%27Web%20Dev%27%2C%27DSA%20%2F%20OOP%27%2C%27Backend%27%5D%2Cdatasets%3A%5B%7Bdata%3A%5B88%2C82%2C90%2C65%2C78%2C70%5D%2CbackgroundColor%3A%27rgba(0%2C255%2C255%2C0.25)%27%2CborderColor%3A%27rgb(0%2C255%2C255)%27%2CpointBackgroundColor%3A%27rgb(0%2C255%2C255)%27%7D%5D%7D%2Coptions%3A%7Bplugins%3A%7Blegend%3A%7Bdisplay%3Afalse%7D%7D%2Cscales%3A%7Br%3A%7Bgrid%3A%7Bcolor%3A%27rgba(255%2C255%2C255%2C0.15)%27%7D%2CangleLines%3A%7Bcolor%3A%27rgba(255%2C255%2C255%2C0.15)%27%7D%2CpointLabels%3A%7Bcolor%3A%27white%27%7D%2Cticks%3A%7Bdisplay%3Afalse%7D%7D%7D%7D"/>
+
 </div>
 
 ---
