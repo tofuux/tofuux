@@ -26,8 +26,19 @@
 - Artificial Intelligence  
 - Deep Learning  
 - Web Development  
- 
 
+
+<img src="https://quickchart.io/chart?c={
+type:'radar',
+data:{
+labels:['Machine Learning','Deep Learning','Web Dev','DSA','Cyber Security','Backend'],
+datasets:[{
+label:'Skills',
+data:[90,85,75,70,65,70]
+}]
+}}&width=500&height=300" />
+
+---
 💬 Ask me about  
 
 `Machine Learning` • `OOP` • `AI Projects`
@@ -139,6 +150,9 @@ Tech:
 <img src="https://readme-jokes.vercel.app/api?theme=tokyonight"/>
 
 </div>
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tofuux&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tofuux&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tofuux&theme=tokyonight)
 
 ---
 
