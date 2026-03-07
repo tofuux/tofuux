@@ -144,12 +144,12 @@ Tech:
 <img src="https://skillicons.dev/icons?i=github" height="40"/>
 </a>
 
-<a href="#">
+<a href="https://www.linkedin.com/in/thrupthi-bhat/">
 <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
 </a>
 
-<a href="#">
-<img src="https://skillicons.dev/icons?i=instagram" height="40"/>
+<a href="mailto:thrupthibhat175@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="40"/>
 </a>
 
 </div>
