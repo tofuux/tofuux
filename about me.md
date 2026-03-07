@@ -1,8 +1,14 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Hi,%20I'm%20Thrupthi%20Bhat&fontSize=70&fontAlignY=38&animation=twinkling" />
+<h3 align="center">
+🚀 Software Developer | 🤖 Machine Learning Enthusiast | 💻 CS Student
+</h3>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=4000&color=FF6EC7&center=true&vCenter=true&width=700&lines=Machine+Learning+Explorer;Deep+Learning+Builder;Software+Developer;Always+Learning+New+Things;Turning+Ideas+Into+Code" />
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Machine+Learning+Explorer;Backend+Developer;Always+Learning+New+Things+🚀">
+</p>
+
 
 </div>
 
