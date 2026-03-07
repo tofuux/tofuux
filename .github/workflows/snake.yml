@@ -6,22 +6,21 @@ on:
   workflow_dispatch:
 
 jobs:
-  build:
+  snake:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Generate Snake
-        uses: Platane/snk@v3
+      - uses: Platane/snk@v3
         with:
           github_user_name: tofuux
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg
+          color_snake: purple
+          color_dots: "#161b22,#0e4429,#006d32,#26a641,#39d353"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v4
+      - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
