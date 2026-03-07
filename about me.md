@@ -1,8 +1,7 @@
-<div align="center">
+<h1 align="center">
+Hi 👋, I'm Thrupthi Bhat
+</h1>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Hi,%20I'm%20Thrupthi%20Bhat&fontSize=70&fontAlignY=38&animation=twinkling" />
-
-<img align="right" height="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 <h3 align="center">
 🚀 Software Developer | 🤖 Machine Learning Enthusiast | 💻 CS Student
 </h3>
@@ -11,162 +10,75 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Machine+Learning+Explorer;Backend+Developer;Always+Learning+New+Things+🚀">
 </p>
 
-</div>
+---
+
+# 🌌 About Me
+
+<img align="right" height="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
+- 🎓 3rd Year **Computer Science Engineering Student**
+- 🤖 Passionate about **AI / Machine Learning**
+- 🌐 Interested in **Backend Development**
+- 🧠 Learning **Deep Learning, Neural Networks**
+- 🔐 Exploring **Cyber Security**
+- 📊 Love solving **DSA problems**
+
+💡 *I believe the best way to learn is to build.*
 
 ---
 
-# 🌌 Who Am I?
-
-<img align="right" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="320"/>
-
-🎓 **3rd Year Computer Science Engineering Student**
-
-🧠 **Machine Learning & Deep Learning Enthusiast**
-
-💻 Building projects in  
-- Artificial Intelligence  
-- Deep Learning  
-- Web Development  
-
-🌱 Currently exploring  
-
-- Neural Networks  
-- Cyber Security  
-- Data Science  
-- DSA  
-
-💬 Ask me about  
-
-`Machine Learning` • `OOP` • `AI Projects`
-
-⚡ Fun fact  
-> I enjoy turning impossible ideas into working code.
-
-<br>
-
----
-
-# 🧠 My Tech Universe
+# 🚀 Tech Stack
 
 ### 💻 Languages
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+---
+
+### 🧠 AI / ML
+
+![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![Scikit Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
+
+---
+
+### ⚙️ Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino)
+
+---
+
+# 📊 GitHub Stats
+
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,js,html,css,cpp,c" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
 
-### ⚙️ Frameworks & Libraries
+# 🧠 Currently Learning
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=tensorflow,react,django" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="45"/>
-</p>
-
----
-
-### 🛠 Tools & Platforms
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,linux,mongodb,postman,arduino,flutter" />
-</p>
-
----
-
-# 🚀 Featured Projects
-
-### 🧬 Fingerprint Blood Group Detection
-🔗 https://github.com/tofuux/Fingerprint_Blood_Group_Detection
-
-A **Deep Learning CNN model** that predicts a person's blood group from fingerprint images.
-
-Tech used:
-
-`Deep Learning` • `CNN` • `Python` • `Jupyter`
-
----
-
-### 🤖 blendAI
-
-🔗 https://github.com/tofuux/blendAI
-
-AI powered assistant for **Blender automation** including scripts and textures.
-
-Tech:
-
-`Python` • `Blender API`
-
----
-
-### 📰 Fake News Detection
-
-🔗 https://github.com/tofuux/Fake_News_Detection
-
-Machine learning model that classifies **fake vs real news articles**.
-
-Tech:
-
-`Python` • `ML` • `NLP`
-
----
-
-### 💬 Chat Simulator
-
-🔗 https://github.com/tofuux/Chat-Simulator
-
-Java based **OOP chat simulation system** demonstrating object-oriented concepts.
-
-Tech:
-
-`Java` • `OOP`
-
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=tofuux&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=tofuux&theme=tokyonight&hide_border=true&background=0D1117"/>
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tofuux&theme=tokyo-night&hide_border=true"/>
-
----
-
-# 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/tofuux">
-<img src="https://skillicons.dev/icons?i=github" height="40"/>
-</a>
-
-<a href="#">
-<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
-</a>
-
-<a href="#">
-<img src="https://skillicons.dev/icons?i=instagram" height="40"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-⭐ *“Code. Learn. Build. Repeat.”*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
-
-</div>
+```text
+Deep Learning
+Neural Networks
+Advanced Data Structures
+Backend Systems
