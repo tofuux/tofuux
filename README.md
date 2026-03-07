@@ -136,6 +136,11 @@ Tech:
 
 ---
 
+# 🐍 3D Contribution Snake
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+
+---
 # 🌐 Connect With Me
 
 <div align="center">
