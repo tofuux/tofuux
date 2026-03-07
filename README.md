@@ -134,6 +134,13 @@ Tech:
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=tofuux&theme=tokyo-night&hide_border=true"/>
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+<div align="center">
+
+<img src="https://readme-jokes.vercel.app/api?theme=tokyonight"/>
+
+</div>
+
+---
 
 ---
 # 🌐 Connect With Me
