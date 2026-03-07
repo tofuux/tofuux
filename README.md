@@ -150,11 +150,15 @@ Tech:
 <img src="https://readme-jokes.vercel.app/api?theme=tokyonight"/>
 
 </div>
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tofuux&theme=tokyonight)
+<div align="center">
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tofuux&theme=tokyonight)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tofuux&theme=tokyonight"/>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tofuux&theme=tokyonight)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tofuux&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tofuux&theme=tokyonight"/>
+
+</div>
 
 ---
 
