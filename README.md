@@ -28,15 +28,13 @@
 - Web Development  
 
 
-<img src="https://quickchart.io/chart?c={
-type:'radar',
-data:{
-labels:['Machine Learning','Deep Learning','Web Dev','DSA','Cyber Security','Backend'],
-datasets:[{
-label:'Skills',
-data:[90,85,75,70,65,70]
-}]
-}}&width=500&height=300" />
+<h2>🧠 Developer Skill Map</h2>
+
+<div align="center">
+
+<img src="https://quickchart.io/chart?c=%7Btype%3A%27radar%27%2Cdata%3A%7Blabels%3A%5B%27Machine%20Learning%27%2C%27Deep%20Learning%27%2C%27Web%20Dev%27%2C%27DSA%27%2C%27Cyber%20Security%27%2C%27Backend%27%5D%2Cdatasets%3A%5B%7Blabel%3A%27Skills%27%2Cdata%3A%5B90%2C85%2C75%2C70%2C65%2C70%5D%7D%5D%7D%7D&width=500&height=300"/>
+
+</div>
 
 ---
 💬 Ask me about  
