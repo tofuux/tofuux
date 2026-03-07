@@ -14,12 +14,10 @@
 
 <img align="right" height="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-- 🎓 3rd Year **Computer Science Engineering Student**
+- 🎓 2nd Year **Computer Science Engineering Student**
 - 🤖 Passionate about **AI / Machine Learning**
 - 🌐 Interested in **Backend Development**
 - 🧠 Learning **Deep Learning, Neural Networks**
-- 🔐 Exploring **Cyber Security**
-- 📊 Love solving **DSA problems**
 
 💡 *I believe the best way to learn is to build.*
 
