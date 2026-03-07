@@ -12,7 +12,7 @@
 
 <img align="right" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="320"/>
 
-🎓 **3rd Year Computer Science Engineering Student**
+🎓 **2nd Year Computer Science Engineering Student**
 
 🧠 **Machine Learning & Deep Learning Enthusiast**
 
@@ -20,13 +20,7 @@
 - Artificial Intelligence  
 - Deep Learning  
 - Web Development  
-
-🌱 Currently exploring  
-
-- Neural Networks  
-- Cyber Security  
-- Data Science  
-- DSA  
+ 
 
 💬 Ask me about  
 
