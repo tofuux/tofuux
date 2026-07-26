@@ -136,37 +136,27 @@ Tech:
 </div>
 
 
-
 # 📈 Contribution Graph
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tofuux&theme=tokyo-night&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tofuux&theme=github-dark&hide_border=true&bg_color=0D1117"/>
 
 <br><br>
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/tofuux/tofuux/output/github-contribution-grid-snake-dark.svg">
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/tofuux/tofuux/output/github-contribution-grid-snake.svg">
-  <img
-    alt="GitHub contribution snake"
-    src="https://raw.githubusercontent.com/tofuux/tofuux/output/github-contribution-grid-snake.svg">
-</picture>
+<img src="https://raw.githubusercontent.com/tofuux/tofuux/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake Animation"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tofuux&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tofuux&theme=github_dark"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tofuux&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tofuux&theme=github_dark"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tofuux&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tofuux&theme=github_dark"/>
 
+</div>
 </div>
 # 🌐 Connect With Me
 
