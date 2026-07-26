@@ -144,17 +144,10 @@ Tech:
 
 <br><br>
 
-<img src="https://raw.githubusercontent.com/tofuux/tofuux/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake Animation"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tofuux&theme=github_dark"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tofuux&theme=github_dark"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tofuux&theme=github_dark"/>
+<img
+  src="https://raw.githubusercontent.com/tofuux/tofuux/output/github-contribution-grid-snake-dark.svg"
+  alt="GitHub Contribution Snake"
+/>
 
 </div>
 </div>
