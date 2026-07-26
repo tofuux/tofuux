@@ -139,10 +139,26 @@ Tech:
 
 # 📈 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tofuux&theme=tokyo-night&hide_border=true"/>
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tofuux&theme=tokyo-night&hide_border=true" />
+
+<br><br>
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/tofuux/tofuux/output/github-contribution-grid-snake-dark.svg">
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/tofuux/tofuux/output/github-contribution-grid-snake.svg">
+  <img
+    alt="GitHub contribution snake"
+    src="https://raw.githubusercontent.com/tofuux/tofuux/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
+
 <div align="center">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tofuux&theme=tokyonight"/>
@@ -152,8 +168,6 @@ Tech:
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tofuux&theme=tokyonight"/>
 
 </div>
-
----
 # 🌐 Connect With Me
 
 <div align="center">
